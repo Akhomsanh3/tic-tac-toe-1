@@ -51,6 +51,6 @@
 </body>
   
 <footer>
-  <p class="center">Created with <i class="fa fa-heart" style="color: #FF5252"></i> by <a href="https://github.com/Akhomsanh">Peter&Haksrun</a></p>
+  <p class="center">Created with <i class="fa fa-heart" style="color: #FF5252"></i> by <a href="https://github.com/Akhomsanh"> Peter & Haksrun </a></p>
 </footer>
 
