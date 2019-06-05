@@ -49,5 +49,8 @@
   <script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
   <script src="script.js"></script>
 </body>
-
+  
+<footer>
+  <p class="center">Created with <i class="fa fa-heart" style="color: #FF5252"></i> by <a href="https://github.com/Akhomsanh">Peter&Haksrun</a></p>
+</footer>
 
